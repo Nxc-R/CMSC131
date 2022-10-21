@@ -1,0 +1,2 @@
+Enter decimal number: 
+Octal value: 3332
